@@ -12,7 +12,7 @@ weight = 4
 
 
 <!--#ref-Smith:2020pxs-->
-N. Smith et al., **Coffea -- Columnar Object
+N. Smith et al., **Coffea: Columnar Object
 Framework For Effective Analysis**, *EPJ Web Conf.* 245 (2020) 06012,
 doi:[10.1051/epjconf/202024506012](https://doi.org/10.1051/epjconf/202024506012),
 arXiv:[2008.12712 \[cs.DC\]](http://arxiv.org/abs/2008.12712)
@@ -69,6 +69,6 @@ arXiv:[1703.04171 \[cs.DC\]](http://arxiv.org/abs/1703.04171)
 
 ----------
 
-published on: 01. February 2021
+published on: 01. March 2021
 
 ----------

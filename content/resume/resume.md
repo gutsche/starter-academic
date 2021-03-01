@@ -75,7 +75,7 @@ arXiv:[1603.06221 \[hep-ex\]](http://arxiv.org/abs/1603.06221)
 
 
 <!--#ref-Smith:2020pxs-->
-N. Smith et al., **Coffea -- Columnar Object
+N. Smith et al., **Coffea: Columnar Object
 Framework For Effective Analysis**, *EPJ Web Conf.* 245 (2020) 06012,
 doi:[10.1051/epjconf/202024506012](https://doi.org/10.1051/epjconf/202024506012),
 arXiv:[2008.12712 \[cs.DC\]](http://arxiv.org/abs/2008.12712)
@@ -108,6 +108,6 @@ arXiv:[1804.03983 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
 
 ----------
 
-published on: 01. February 2021
+published on: 01. March 2021
 
 ----------
