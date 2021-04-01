@@ -238,8 +238,7 @@ arXiv:[2008.12712 \[cs.DC\]](http://arxiv.org/abs/2008.12712)
 
 <!--#ref-Alves:2017she-->
 J. Albrecht et al., **A Roadmap for HEP Software
-and Computing R & D for the 2020s**, *Comput. Softw. Big Sci.* 3 (2019)
-7,
+and Computing R&D for the 2020s**, *Comput. Softw. Big Sci.* 3 (2019) 7,
 doi:[10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8),
 arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
 
@@ -353,6 +352,6 @@ for data from high-energy physics**, (2017), Article in
 
 ----------
 
-published on: 01. March 2021
+published on: 01. April 2021
 
 ----------
