@@ -11,6 +11,12 @@ weight = 4
 # Computing Publications with Major Personal Contributions
 
 
+<!--#ref-Bhattacharya:2022qgj-->
+M. Bhattacharya et al., **Portability: A
+Necessary Approach for Future Scientific Software**, in: **2022 Snowmass
+Summer Study**, 2022. <http://arxiv.org/abs/2203.09945>,
+arXiv:[2203.09945 \[physics.comp-ph\]](http://arxiv.org/abs/2203.09945)
+
 <!--#ref-Smith:2020pxs-->
 N. Smith et al., **Coffea: Columnar Object
 Framework For Effective Analysis**, *EPJ Web Conf.* 245 (2020) 06012,
@@ -69,6 +75,6 @@ arXiv:[1703.04171 \[cs.DC\]](http://arxiv.org/abs/1703.04171)
 
 ----------
 
-published on: 02. March 2022
+published on: 01. April 2022
 
 ----------
