@@ -11,6 +11,12 @@ weight = 4
 # Computing Publications with Major Personal Contributions
 
 
+<!--#ref-Bockelman:2023gbj-->
+B. Bockelman et al., **IRIS-HEP Strategic
+Plan for the Next Phase of Software Upgrades for HL-LHC Physics**,
+(2023). <http://arxiv.org/abs/2302.01317>, arXiv:[2302.01317
+\[hep-ex\]](http://arxiv.org/abs/2302.01317)
+
 <!--#ref-Elvira:2022wyn-->
 V.D. Elvira et al., **The Future of High Energy
 Physics Software and Computing**, in: **2022 Snowmass Summer Study**,
@@ -87,6 +93,6 @@ arXiv:[1703.04171 \[cs.DC\]](http://arxiv.org/abs/1703.04171)
 
 ----------
 
-published on: 01. February 2023
+published on: 01. March 2023
 
 ----------
