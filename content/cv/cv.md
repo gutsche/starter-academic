@@ -188,6 +188,13 @@ During my graduate student time at DESY from 2001 to 2005, I was one of the prop
 
 
 ## Physics Publications with Major Personal Contributions
+<!--#ref-CMS:2022dwd-->
+A. Tumasyan et al., **A portrait of the Higgs boson
+by the CMS experiment ten years after the discovery**, *Nature*. 607
+(2022) 60--68,
+doi:[10.1038/s41586-022-04892-x](https://doi.org/10.1038/s41586-022-04892-x),
+arXiv:[2207.00043 \[hep-ex\]](http://arxiv.org/abs/2207.00043)
+
 <!--#ref-CMS:2018zjv-->
 A.M. Sirunyan et al., **Search for dark matter
 produced in association with a Higgs boson decaying to a pair of bottom
@@ -249,8 +256,8 @@ Plan for the Next Phase of Software Upgrades for HL-LHC Physics**,
 
 <!--#ref-Elvira:2022wyn-->
 V.D. Elvira et al., **The Future of High Energy
-Physics Software and Computing**, in: **2022 Snowmass Summer Study**,
-2022. <http://arxiv.org/abs/2210.05822>, arXiv:[2210.05822
+Physics Software and Computing**, in: **Snowmass 2021**, 2022.
+<http://arxiv.org/abs/2210.05822>, arXiv:[2210.05822
 \[hep-ex\]](http://arxiv.org/abs/2210.05822)
 
 <!--#ref-Cerati:2022wiv-->
@@ -261,9 +268,9 @@ arXiv:[2209.07356 \[hep-ex\]](http://arxiv.org/abs/2209.07356)
 
 <!--#ref-Bhattacharya:2022qgj-->
 M. Bhattacharya et al., **Portability: A
-Necessary Approach for Future Scientific Software**, in: **2022 Snowmass
-Summer Study**, 2022. <http://arxiv.org/abs/2203.09945>,
-arXiv:[2203.09945 \[physics.comp-ph\]](http://arxiv.org/abs/2203.09945)
+Necessary Approach for Future Scientific Software**, in: **Snowmass
+2021**, 2022. <http://arxiv.org/abs/2203.09945>, arXiv:[2203.09945
+\[physics.comp-ph\]](http://arxiv.org/abs/2203.09945)
 
 <!--#ref-Berzano:2018xaa-->
 D. Berzano et al., **HEP Software Foundation
@@ -381,6 +388,6 @@ for data from high-energy physics**, (2017), Article in
 
 ----------
 
-published on: 01. March 2023
+published on: 02. April 2023
 
 ----------
