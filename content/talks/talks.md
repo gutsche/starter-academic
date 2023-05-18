@@ -11,6 +11,17 @@ weight = 4
 # List of Presentation and Talks
 
 
+<!--#ref-Gutsche:2023aaa-->
+O. Gutsche, (2023), Parallel Session Talk at
+the [26th International Conference on Computing in High Energy & Nuclear
+Physics (CHEP2023)](https://indico.jlab.org/event/459/),
+[(Material)](https://indico.jlab.org/event/459/contributions/11470/)
+
+<!--#ref-Gutsche:2022aab-->
+O. Gutsche, **Computing**, (2022), Plenary talk
+given at the DOE/HEP Review of the Energy Frontier Laboratory Research
+Program, (Material available upon request)
+
 <!--#ref-Gutsche:2022aaa-->
 O. Gutsche, **Computing**, (2022), Lecture
 given at [17th Hadron Collider Physics Summer
@@ -51,6 +62,6 @@ Analysis Tools**, (2019), Plenary Talk at the CMS Data Analysis School
 
 ----------
 
-published on: 01. May 2023
+published on: 18. May 2023
 
 ----------
