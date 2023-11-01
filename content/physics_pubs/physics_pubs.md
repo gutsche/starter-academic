@@ -13,7 +13,7 @@ weight = 4
 
 <!--#ref-CMS:2022dwd-->
 A. Tumasyan et al., **A portrait of the Higgs boson
-by the CMS experiment ten years after the discovery**, *Nature*. 607
+by the CMS experiment ten years after the discovery.**, *Nature*. 607
 (2022) 60--68,
 doi:[10.1038/s41586-022-04892-x](https://doi.org/10.1038/s41586-022-04892-x),
 arXiv:[2207.00043 \[hep-ex\]](http://arxiv.org/abs/2207.00043)
@@ -78,6 +78,6 @@ arXiv:[1207.7235 \[hep-ex\]](http://arxiv.org/abs/1207.7235)
 
 ----------
 
-published on: 01. October 2023
+published on: 01. November 2023
 
 ----------
