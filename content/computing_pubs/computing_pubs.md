@@ -11,6 +11,12 @@ weight = 4
 # Computing Publications with Major Personal Contributions
 
 
+<!--#ref-Smith:2023mrq-->
+N. Smith et al., **A Ceph S3 Object Data Store
+for HEP**, in: **26th International Conference on Computing in High
+Energy & Nuclear Physics**, 2023. <http://arxiv.org/abs/2311.16321>,
+arXiv:[2311.16321 \[physics.data-an\]](http://arxiv.org/abs/2311.16321)
+
 <!--#ref-Apresyan:2023frr-->
 A. Apresyan et al., **Detector R&D needs for
 the next generation $e^+e^-$ collider**, (2023).
@@ -87,6 +93,6 @@ arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
 
 ----------
 
-published on: 01. November 2023
+published on: 01. December 2023
 
 ----------
