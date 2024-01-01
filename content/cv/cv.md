@@ -251,6 +251,13 @@ arXiv:[1207.7235 \[hep-ex\]](http://arxiv.org/abs/1207.7235)
 
 
 ## Computing Publications with Major Personal Contributions
+<!--#ref-Gutsche:2023cth-->
+O. Gutsche et al., **The U.S. CMS HL-LHC R&D
+Strategic Plan**, in: **26th International Conference on Computing in
+High Energy & Nuclear Physics**, 2023.
+<http://arxiv.org/abs/2312.00772>, arXiv:[2312.00772
+\[hep-ex\]](http://arxiv.org/abs/2312.00772)
+
 <!--#ref-Smith:2023mrq-->
 N. Smith et al., **A Ceph S3 Object Data Store
 for HEP**, in: **26th International Conference on Computing in High
@@ -381,6 +388,6 @@ for data from high-energy physics**, (2017), Article in
 
 ----------
 
-published on: 01. December 2023
+published on: 01. January 2024
 
 ----------
