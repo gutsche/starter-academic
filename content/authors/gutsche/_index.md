@@ -98,6 +98,6 @@ I regularly speak at international conferences and workshops and am member of th
 
 ----------
 
-published on: 01. January 2024
+published on: 02. February 2024
 
 ----------
