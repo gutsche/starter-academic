@@ -8,14 +8,14 @@ weight = 4
   columns = "1"
 +++
 
-# Articles and Media Mentionings
+# Articles
 
 changequote(`{{{{', `}}}}')
 include({{{{../media_list/short_media_list.md}}}})
 
 ----------
 
-* Full List of Articles and Media Mentionings can be found [here](https://github.com/gutsche/ForThePublic/raw/master/media_list/media_list.pdf).
+* Full List of Articles can be found [here](https://github.com/gutsche/ForThePublic/raw/master/media_list/media_list.pdf).
 
 ----------
 

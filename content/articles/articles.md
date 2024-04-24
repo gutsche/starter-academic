@@ -8,7 +8,7 @@ weight = 4
   columns = "1"
 +++
 
-# Articles and Media Mentionings
+# Articles
 
 
 <!--#ref-Gutsche:2017aac-->
@@ -32,10 +32,10 @@ for data from high-energy physics**, (2017), Article in
 
 ----------
 
-* Full List of Articles and Media Mentionings can be found [here](https://github.com/gutsche/ForThePublic/raw/master/media_list/media_list.pdf).
+* Full List of Articles can be found [here](https://github.com/gutsche/ForThePublic/raw/master/media_list/media_list.pdf).
 
 ----------
 
-published on: 01. April 2024
+published on: 24. April 2024
 
 ----------

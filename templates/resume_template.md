@@ -18,16 +18,13 @@ Link to Resume: [(PDF)](https://github.com/gutsche/ForThePublic/raw/master/cv/re
 
 changequote(`{{{{', `}}}}')
 
-include({{{{../cv/short_research.md}}}})
+include({{{{../cv/managerial_experience_introduction.md}}}})
 
-include({{{{../cv/short_education.md}}}})
+include({{{{../cv/leadership_experience_introduction.md}}}})
 
-include({{{{../cv/short_assignments.md}}}})
+include({{{{../cv/technical_experience_introduction.md}}}})
 
-## Research and Technical Experience
-include({{{{../cv/short_research_experience_cms.md}}}})
-
-include({{{{../cv/short_technical_experience.md}}}})
+include({{{{../cv/research_experience_introduction.md}}}})
 
 ## Selected Recent Publications in Physics and Computing
 
