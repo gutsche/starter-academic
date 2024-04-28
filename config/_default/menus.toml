@@ -34,7 +34,7 @@
   weight = 6
 
 [[main]]
-  name = "Articles"
+  name = "Media"
   url = "articles"
   weight = 7
 
