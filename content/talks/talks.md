@@ -11,6 +11,12 @@ weight = 4
 # List of Presentation and Talks
 
 
+<!--#ref-Gutsche:2024aaa-->
+O. Gutsche, **Computing and Software
+Infrastructure**, (2024), Presentation at the [Fermilab-CERN HCP Summer
+School 2024](https://indico.fnal.gov/event/63696/),
+[(Material)](https://indico.fnal.gov/event/63696/contributions/292540/attachments/180212/246716/240725-240726%20-%20HCPS%20-%20Gutsche%20-%20Computing%20and%20Software%20Infrastructure.pdf)
+
 <!--#ref-Gutsche:2023aab-->
 O. Gutsche, **HL-LHC Computing**, (2023),
 Presentation at the [USCMS Undergraduate Summer Internship
@@ -41,6 +47,6 @@ School](https://indico.fnal.gov/event/54596/),
 
 ----------
 
-published on: 01. July 2024
+published on: 02. August 2024
 
 ----------
