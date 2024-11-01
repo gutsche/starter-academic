@@ -122,6 +122,11 @@ for HEP**, *EPJ Web Conf.* 295 (2024) 01003,
 doi:[10.1051/epjconf/202429501003](https://doi.org/10.1051/epjconf/202429501003),
 arXiv:[2311.16321 \[physics.data-an\]](http://arxiv.org/abs/2311.16321)
 
+<!--#ref-CMS:2024juo-->
+J. Balcas et al., **Automated Network Services for
+Exascale Data Movement**, *EPJ Web Conf.* 295 (2024) 01009,
+doi:[10.1051/epjconf/202429501009](https://doi.org/10.1051/epjconf/202429501009)
+
 <!--#ref-CMS:2020kpn-->
 N. Smith et al., **Coffea: Columnar Object
 Framework For Effective Analysis**, *EPJ Web Conf.* 245 (2020) 06012,
@@ -144,6 +149,6 @@ arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
 
 ----------
 
-published on: 02. October 2024
+published on: 01. November 2024
 
 ----------
