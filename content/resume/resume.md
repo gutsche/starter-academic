@@ -20,13 +20,13 @@ Link to Resume: [(PDF)](https://github.com/gutsche/ForThePublic/raw/master/cv/re
 
 # Managerial Experience
 
-During my career in scientific computing of more than 15 years, I have gained extensive experience managing large scientific projects like the U.S. CMS Software & Computing Operations Program, and in organizations like the international CMS collaboration at the LHC and the Computational, Science and Artificial Intelligence Directorate (CSAID) at Fermilab. 
+During my career in scientific computing of more than 15 years, I have gained extensive experience managing in large line management organizations (CSAID), large international collaborations (CMS) and large U.S. operations programs. 
 
-Since 2019, I am the U.S. CMS Software and Computing Operations Program manager providing the software and computing infrastructure for U.S. CMS researchers to maintain physics leadership in CMS. Under my leadership, the program's annual budget increased from 15M U.S. Dollars in 2019 to almost 20M U.S. Dollars in 2024, supporting more than 60 FTE of scientists and technical staff and computing hardware deployed at Fermilab and 7 U.S. university sites.
+Since August 2024, I am the Deputy Associate Lab Director (interim) for CSAID at Fermilab, and since November 2024, I am also the Acting Deputy Division Director for the Scientific Computing Systems and Services Division and the Department Head for the Facility Evolution Department. 
 
-I am currently holding a senior management position in Fermilab CSAID and held many management positions in the CMS collaboration. 
+From March 2019 to December 2024, I was appointed U.S. CMS Software and Computing Operations Program manager receiving funding from both the National Science Foundation (NSF) and the Department of Energy (DOE) to provide the software and computing infrastructure for U.S. CMS researchers to maintain physics leadership in CMS. Under my leadership, the program's annual budget increased from 15M U.S. Dollars in 2019 to almost 20M U.S. Dollars in 2024, supporting more than 60 FTE of scientists and technical staff and computing hardware deployed at Fermilab and 7 U.S. university sites.
 
-I am active in recruiting and maintaining a diverse workforce by building career pipelines through internship programs, and mentoring of junior technical staff as well as junior scientists and postdoctoral researchers.
+I am active in recruiting and maintaining a vibrant and efficient workforce by building career pipelines through internship programs, and mentoring of junior technical staff as well as junior scientists and postdoctoral researchers.
 
 # Leadership Experience
 
@@ -38,16 +38,16 @@ For Fermilab, I created the Computing Resources Evolution STrategy (CREST) proce
 
 For the DOE [Center for Computational Excellence (HEP-CCE)](https://www.anl.gov/hep-cce/activities), I co-wrote the proposal to execute 4 sub-projects to (1) investigate parallel portability solutions (PPS) to develop algorithmic code once and compile it transparently for the various CPU and accelerator-based architectures; (2) Fine-Grained I/O and Storage (IOS) to optimize data structures on disk and in memory and optimize data access on large shared storage systems at HPC systems; (3) Event Generators (EG) to optimize HEP theory code for execution on HPC systems; (4) Complex Workflows (CW) to orchestrate workflows whose steps need different hardware platforms. I was appointed technical lead of the PPS sub-project and the funding period of this proposal finished.
 
-I am recognized nationally and internationally through membership of various committees, being selected to co-lead the [Computational Frontier](https://snowmass21.org/computational/start) of the [Snowmass 2021 process](https://snowmass21.org), and asked to be a member of the editorial board of the journal for ["Computing and Software for Big Science"](https://www.springer.com/physics/particle+and+nuclear+physics/journal/41781?countryChanged=true).
+I am recognized nationally and internationally through membership of various committees, being selected to co-lead the [Computational Frontier](https://snowmass21.org/computational/start) of the [Snowmass 2021 process](https://snowmass21.org), and asked to be a member of the editorial boards of the journal for ["Computing and Software for Big Science"](https://www.springer.com/physics/particle+and+nuclear+physics/journal/41781?countryChanged=true) and the [European Physical Journal (EPJ C)](https://epjc.epj.org/epjc-editorial-board).
 
 
 # Technical Experience
 
 I have deep knowledge of planning, developing, maintaining and operating distributed computing infrastructures that provide access to several hundred-thousand computing cores and many hundred of petabytes of disk space. I am versed in efficiently storing and retrieving data from permanent storage on tape. I am intimately familiar with both HTC and HPC, with scientific grid sites, academic and commercial clouds and the largest supercomputers at High Performance Computing centers in the U.S. and across the world. This infrastructure executes scientific software consisting of millions of lines of C++ and python code that is needed to extract physics results. I am an expert in object oriented software development, statistical data analysis methods and Monte Carlo simulation techniques as well as various optimization and machine learning techniques.
 
-The technical aspects of my work are closely connected to physics research, as they enable the analysis of particle physics detector data and simulations as a basis to extract physics results. My active involvement in HEP science allows me to guide the science community to benefit from the latest computing developments, bridging the worlds of science and scientific computing.
+The technical aspects of my work are closely connected to scientific research, as they enable the analysis of particle physics detector data and simulations as a basis to extract physics results. My active involvement in HEP science allows me to guide the science community to benefit from the latest computing developments, bridging the worlds of science and scientific computing.
 
-My current R&D projects revolutionize the utilization of wide area network connections by managing data movements through dynamic SDN channels ([ESnet SENSE/Rucio](https://indico.jlab.org/event/459/contributions/11306/) project), enabling CMS to utilize the latest supercomputers with emphasis on the DOE leadership class facilities based on GPUs, and changing the end-user analysis paradigm to adapt the usage of the industry based pythonic analysis ecosystem and employ columnar analysis techniques.
+My current R&D projects revolutionize the utilization of wide area network connections by managing data movements through dynamic SDN channels within the DOE ASCR's ([ESnet SENSE/Rucio](https://indico.jlab.org/event/459/contributions/11306/) project), enabling CMS to utilize the latest supercomputers with emphasis on the DOE leadership class facilities based on GPUs, and changing the end-user analysis paradigm to adapt the usage of the industry based pythonic analysis ecosystem and employ columnar analysis techniques.
 
 # Research Experience
 
@@ -149,6 +149,6 @@ arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
 
 ----------
 
-published on: 01. July 2025
+published on: 27. July 2025
 
 ----------
