@@ -11,6 +11,12 @@ weight = 4
 # Computing Publications with Major Personal Contributions
 
 
+<!--#ref-Atif:2026iab-->
+M. Atif et al., **Evaluating Application
+Characteristics for GPU Portability Layer Selection**, (2026).
+<http://arxiv.org/abs/2601.17526>, arXiv:[2601.17526
+\[hep-ex\]](http://arxiv.org/abs/2601.17526)
+
 <!--#ref-Apresyan:2023frr-->
 A. Apresyan et al., **Detector R&D needs for
 the next generation $e^+e^-$ collider**, (2023).
@@ -111,6 +117,6 @@ arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
 
 ----------
 
-published on: 19. January 2026
+published on: 01. February 2026
 
 ----------
