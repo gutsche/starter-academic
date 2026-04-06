@@ -11,6 +11,12 @@ weight = 4
 # Computing Publications with Major Personal Contributions
 
 
+<!--#ref-Aarrestad:2026xrs-->
+T.K. Aarrestad et al., **Building an
+AI-native Research Ecosystem for Experimental Particle Physics: A
+Community Vision**, (2026). <http://arxiv.org/abs/2602.17582>,
+arXiv:[2602.17582 \[hep-ex\]](http://arxiv.org/abs/2602.17582)
+
 <!--#ref-Atif:2026iab-->
 M. Atif et al., **Evaluating Application
 Characteristics for GPU Portability Layer Selection**, (2026).
@@ -65,6 +71,12 @@ Software Foundation Community White Paper Working Group - Data Analysis
 and Interpretation**, (2018). <http://arxiv.org/abs/1804.03983>,
 arXiv:[1804.03983 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
 
+<!--#ref-Giannakou:2026sip-->
+A. Giannakou et al., **Interpretable Models
+for Workflow Differentiation in High-Performance Scientific Networks**,
+(2026),
+doi:[10.1109/ICNC68183.2026.11416957](https://doi.org/10.1109/ICNC68183.2026.11416957)
+
 <!--#ref-CMS:2024juo-->
 J. Balcas et al., **Automated Network Services for
 Exascale Data Movement**, *EPJ Web Conf.* 295 (2024) 01009,
@@ -117,6 +129,6 @@ arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
 
 ----------
 
-published on: 01. April 2026
+published on: 06. April 2026
 
 ----------
