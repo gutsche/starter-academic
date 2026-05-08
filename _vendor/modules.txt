@@ -1,0 +1,2 @@
+# github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201008203720-98d093a07301
+# github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20201008203720-98d093a07301
