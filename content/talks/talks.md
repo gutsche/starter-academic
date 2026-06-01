@@ -39,6 +39,6 @@ weight = 4
 
 ----------
 
-published on: 10. May 2026
+published on: 01. June 2026
 
 ----------
