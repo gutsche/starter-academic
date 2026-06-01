@@ -259,7 +259,7 @@ In my past LHC research, I have led searches for evidence of physics beyond the 
 |                 |                                                                                                                     |
 | **1996 - 2001** | **University of Hamburg**, _Diploma in Physics_, Hamburg, Germany                                                   |
 | Thesis title    | _Development of the trigger algorithm for the MONOLITH experiment_ [(thesis)](http://www-library.desy.de/cgi-bin/showprep.pl?desy-thesis-01-020) |
-| Advisors        | Prof. Dr. Robert Klanner, Dr. Achim Geiser 
+| Advisors        | Prof. Dr. Robert Klanner, Dr. Achim Geiser
 
 
 ## Research Positions
@@ -465,6 +465,6 @@ I have supervised several Fermilab postdoctoral researchers in pursuit of these 
 
 ----------
 
-published on: 08. May 2026
+published on: 10. May 2026
 
 ----------
